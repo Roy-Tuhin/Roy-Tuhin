@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roy-tuhin&label=Profile%20views&color=0e75b6&style=flat" alt="roy-tuhin" /> </p>
 <img align="right" alt="Coding" width="335" src="https://static.collectui.com/shots/3773756/working-from-home-large">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roy-tuhin&show_icons=true&locale=en"alt="roy-tuhin" /></p>
+<img src = "https://github-readme-stats.vercel.app/api?username=Roy-Tuhin&show_icons=true&theme=radical&line_height=27">
 
 
 - 🌱 I’m currently learning **Flutter**
@@ -33,4 +33,16 @@
 </a>
 
 
+
+
+
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Roy-Tuhin&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samridhi-98&hide=css,java,html&theme=radical">
+</p>
+
+<p align = "center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Roy-Tuhin&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
 
