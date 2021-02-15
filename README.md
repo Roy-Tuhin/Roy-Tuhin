@@ -2,7 +2,7 @@
 <h3 align="center">I'm trying to Figure-Out my own Stuff!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roy-tuhin&label=Profile%20views&color=0e75b6&style=flat" alt="roy-tuhin" /> </p>
-<img align="right" alt="Coding" width="330" src="https://static.collectui.com/shots/3773756/working-from-home-large">
+<img align="right" alt="Coding" width="335" src="https://static.collectui.com/shots/3773756/working-from-home-large">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roy-tuhin&show_icons=true&locale=en"alt="roy-tuhin" /></p>
 
 
