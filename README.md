@@ -22,14 +22,6 @@
 
 
 
-
-
-<p align="left">
-
-<a href="https://linkedin.com/in/tuhin roy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tuhin roy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/tuhin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="tuhin" height="30" width="40" /></a>
-</p>
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
