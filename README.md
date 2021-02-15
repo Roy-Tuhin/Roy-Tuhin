@@ -33,4 +33,4 @@
 </a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Roy-Tuhin&show_icons=true&locale=en&layout=compact" alt="Roy-Tuhin" /></p>
+
