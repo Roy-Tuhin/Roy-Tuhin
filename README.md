@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tuhin Roy</h1>
 <h3 align="center">I'm trying to Figure-Out Stuff!!</h3>
 
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...​"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roy-tuhin&label=Profile%20views&color=0e75b6&style=flat" alt="roy-tuhin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roy-tuhin" alt="roy-tuhin" /></a> </p>
