@@ -45,3 +45,7 @@
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Roy-Tuhin&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
+
+<p align = "right">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samridhi-98&hide=css,java,html&theme=radical">
+</p> 
