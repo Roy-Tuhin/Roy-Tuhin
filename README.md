@@ -1,6 +1,17 @@
 <h1 align="center">Hola 👋, I'm Tuhin Roy</h1>
 <h3 align="center">I'm trying to Figure-Out my own Stuff!!</h3>
 
+
+<p align="center">
+<img src="https://badges.pufler.dev/visits/Samridhi-98/Samridhi-98"/>
+ <img src="https://badges.pufler.dev/years/Samridhi-98"/>
+ <img src="https://badges.pufler.dev/repos/Samridhi-98"/>
+ <img src="https://badges.pufler.dev/commits/monthly/Samridhi-98"/>
+ </p> 
+  
+  
+  
+
 <p align = "center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roy-tuhin&label=Profile%20views&color=0e75b6&style=flat" alt="roy-tuhin" /> </p>
 <img align="right" alt="Coding" width="335" src="https://static.collectui.com/shots/3773756/working-from-home-large">
