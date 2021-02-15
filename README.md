@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [tuhin.live](tuhin.live)
+- 👨‍💻 You can also check out my portfolio at [tuhin.live](tuhin.live)
 
 - 📫 How to reach me **tuhinroy881@gmail.com**
 
