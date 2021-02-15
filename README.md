@@ -31,3 +31,6 @@
 <a href="https://github.com/Roy-Tuhin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-Tuhin&theme=light&hide_langs_below=1" />
 </a>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Roy-Tuhin&show_icons=true&locale=en&layout=compact" alt="Roy-Tuhin" /></p>
