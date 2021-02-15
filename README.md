@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roy-tuhin&label=Profile%20views&color=0e75b6&style=flat" alt="roy-tuhin" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/14926319-Working-From-Home?utm_source=Clipboard_Shot&utm_campaign=rosiephillpot&utm_content=Working%20From%20Home&utm_medium=Social_Share
+">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roy-tuhin" alt="roy-tuhin" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
