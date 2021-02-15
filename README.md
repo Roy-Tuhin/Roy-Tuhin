@@ -16,7 +16,7 @@
 
 
 [![Twitter: Boyetuhin](https://img.shields.io/twitter/follow/Boyetuhin?style=social)](https://twitter.com/Boyetuhin)
-[![Linkedin: tuhin-Roy](https://img.shields.io/badge/-tuhin-Roy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuhin-roy-b1876b18b/)](https://www.linkedin.com/in/imthepk/)
+[![Linkedin: TuhinRoy](https://img.shields.io/badge/-TuhinRoy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuhin-roy-17th/)](https://www.linkedin.com/in/tuhin-roy-17th/)
 [![GitHub Roy-Tuhin](https://img.shields.io/github/followers/Roy-Tuhin?label=follow&style=social)](https://github.com/Roy-Tuhin)
 [![website](https://img.shields.io/badge/PortfolioWebsite-tuhin.live-2648ff?style=flat-square&logo=google-chrome)](https://tuhin.live/)
 
