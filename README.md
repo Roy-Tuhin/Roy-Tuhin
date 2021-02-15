@@ -16,9 +16,9 @@
 
 
 [![Twitter: Boyetuhin](https://img.shields.io/twitter/follow/Boyetuhin?style=social)](https://twitter.com/Boyetuhin)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
+[![Linkedin: tuhin-Roy](https://img.shields.io/badge/-tuhin-Roy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuhin-roy-b1876b18b/)](https://www.linkedin.com/in/imthepk/)
+[![GitHub Roy-Tuhin](https://img.shields.io/github/followers/Roy-Tuhin?label=follow&style=social)](https://github.com/Roy-Tuhin)
+[![website](https://img.shields.io/badge/PortfolioWebsite-tuhin.live-2648ff?style=flat-square&logo=google-chrome)](https://tuhin.live/)
 
 
 
