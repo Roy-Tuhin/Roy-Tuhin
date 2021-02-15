@@ -5,7 +5,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roy-tuhin&show_icons=true&locale=en" alt="roy-tuhin" /></p>
 
-<img align="right" alt="Coding" width="900" src="https://cdn.dribbble.com/users/338126/screenshots/14926319/media/20b64b8c929f2cad121aae5f0d02e08c.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5b/10/59/5b105975614631b0a17cac280b619530.gif">
 
 - 🌱 I’m currently learning **Flutter**
 
