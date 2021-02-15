@@ -30,15 +30,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 
-<p align = "center">
+<p align = "left">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Roy-Tuhin&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> //
-
-
-
-
-
-<a href="https://github.com/Roy-Tuhin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-Tuhin&theme=light&hide_langs_below=1" />
-</a>
+</p> 
 
