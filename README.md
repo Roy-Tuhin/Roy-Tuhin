@@ -3,10 +3,10 @@
 
 
 <p align="center">
-<img src="https://badges.pufler.dev/visits/Samridhi-98/Samridhi-98"/>
- <img src="https://badges.pufler.dev/years/Samridhi-98"/>
- <img src="https://badges.pufler.dev/repos/Samridhi-98"/>
- <img src="https://badges.pufler.dev/commits/monthly/Samridhi-98"/>
+<img src="https://badges.pufler.dev/visits/Roy-Tuhin/Roy-Tuhin"/>
+ <img src="https://badges.pufler.dev/years/Roy-Tuhin"/>
+ <img src="https://badges.pufler.dev/repos/Roy-Tuhin"/>
+ <img src="https://badges.pufler.dev/commits/monthly/Roy-Tuhin"/>
  </p> 
   
   
