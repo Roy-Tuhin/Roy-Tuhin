@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 You can also check out my portfolio at [https://roy-tuhin.github.io/T-portfolio/](portfolio)
+- 👨‍💻 You can also check out my portfolio at [portfolio](https://roy-tuhin.github.io/T-portfolio/)
 
 - 📫 How to reach me **tuhinroy881@gmail.com**
 
